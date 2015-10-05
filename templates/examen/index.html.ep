@@ -3,8 +3,8 @@
 %= t h1 => "Examen de Psicologia Social"
 
 % my $bloc1 = $self->m_examen->count_bloc("1");
-% my $bloc2 = $self->m_examen->count_bloc("2");
-% my $bloc3 = $self->m_examen->count_bloc("3");
+
+
 
 <ul>
 	<li>Preguntes: <a href=/preguntes/bloc/1>Bloc 1</a> (
